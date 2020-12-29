@@ -2,7 +2,7 @@
 
 Here are files I used to generate this map:
 
-![Relief map of Washington](washington_print.png)
+![Relief map of Washington](washington_print\ copy.png)
 
 I followed [this tutorial](https://somethingaboutmaps.wordpress.com/blender-relief-tutorial-getting-set-up/) very closely.
 
